@@ -1,6 +1,5 @@
 ## Olá, sou o Rafael Vale 
 
-##
 
 - 🔭 Atualmente estou trabalhando na MeuCashCard
 - 🌱 Atualmente estou aprendendo Python
