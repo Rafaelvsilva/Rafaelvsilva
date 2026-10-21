@@ -1,23 +1,35 @@
 ## Olá, sou o Rafael Vale 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando na MeuCashCard
 - 🌱 Atualmente estou aprendendo Python
-- 📫 Como me alcançar: Rafaelvale03@gmail.com
+- 📫 Como me contatar: Rafaelvale03@gmail.com
 
- <picture>
+
+<div align="center">
+  <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=Rafaelvsilva=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/?username=Rafaelvsilva&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=Rafaelvsilva&theme=midnight-purple" alt="Anurag's GitHub stats" />
-  </picture>
-
- <picture>
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/?username=Rafaelvsilva&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+      alt="GitHub Stats"
+    />
+  </picture><picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rafaelvsilva&langs_count=4&theme=midnight-purple"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rafaelvsilva&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rafaelvsilva&langs_count=4&theme=midnight-purple" alt="Top Langs" />
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rafaelvsilva&langs_count=4&theme=midnight-purple"
+      alt="Top Langs"
+    />
   </picture>
+</div>
+
+
+
+
+ 
