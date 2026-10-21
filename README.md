@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo Python
 - 📫 Como me alcançar: Rafaelvale03@gmail.com
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?rafaelvsilva=rafaelvsilva)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Rafaelvsilva)](https://github.com/stats-organization/github-stats-extended)
