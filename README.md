@@ -1,6 +1,11 @@
+
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=C084FC&width=500&lines=Ol%C3%A1%2C+sou+o+Rafael+Vale" alt="Olá, sou o Rafael Vale" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+o+Rafael+Vale"
+    alt="Olá, sou o Rafael Vale"
+  />
 </h1>
+
 
 
 - 🔭 Atualmente estou trabalhando na MeuCashCard
